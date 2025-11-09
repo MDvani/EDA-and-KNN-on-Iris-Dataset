@@ -1,5 +1,6 @@
  
 #  Iris EDA & KNN Classification
+![Iris Flower](visualizations/iris_flower.png)
 
 ##  Overview
 This project focuses on performing Exploratory Data Analysis (EDA) and applying the K-Nearest Neighbors (KNN) algorithm on the classic Iris dataset.  
