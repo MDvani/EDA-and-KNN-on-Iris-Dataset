@@ -53,10 +53,10 @@ The main goal is to explore data patterns, reduce dimensionality using PCA, and 
 - **Seaborn**
 - **Scikit-learn**
 
----
-
 ##  Results
 - Successfully visualized feature relationships and species separation.
 - Achieved high accuracy using the **KNN classifier**.
 - Demonstrated clear clusters in PCA visualization.
+## Read full medium blog https://medium.com/@mdurgavani99/exploring-the-iris-dataset-eda-pca-and-knn-classification-step-by-step-f2c3b5b3cd94
+---
 
